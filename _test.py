@@ -15,11 +15,11 @@ def fifth_power(n):
 #Testing the square function
 def test_square():
     assert square(2) == 4, "Test failed : Sqauare of 2 should be the 4"
-    assert square(3) == 9, "Test failed : Sqauare of 3 should be 9"
+    assert square(3) == 9, "Test failed : Sqauare of 3 should be the 9"
 
 #Testing the cube function
 def test_cube():
-    assert cube(2) == 8, "Test failed : cube of 2 should be 8"
+    assert cube(2) == 8, "Test failed : cube of 2 should be the 8"
     assert cube(3) == 27, "Test failed : cube of 3 should be 27" 
 
 #Testing the fifth_power function
