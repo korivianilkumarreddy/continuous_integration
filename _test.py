@@ -20,7 +20,7 @@ def test_square():
 #Testing the cube function
 def test_cube():
     assert cube(2) == 8, "Test failed : cube of 2 should be the 8"
-    assert cube(3) == 27, "Test failed : cube of 3 should be 27" 
+    assert cube(3) == 27, "Test failed : cube of 3 should be the 27" 
 
 #Testing the fifth_power function
 def test_fifth_power():
